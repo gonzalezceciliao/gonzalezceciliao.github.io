@@ -24,7 +24,7 @@ body{
     position: relative;
     display: grid;
     grid-template-rows: 350px 1fr;
-    color: #f1cefc;
+    color: #e7d9b4;
     
 }
 
@@ -70,7 +70,7 @@ width: auto
 }
 
 .nav__links{
-    color: #c97cf3;
+    color: #09738a;
     text-decoration: none;
 }
 
@@ -112,7 +112,7 @@ width: auto
 
 .cta{
     display: inline-block;
-    background-color: #c97cf3;
+    background-color: #092b5a;
     justify-self: center;
     color: #2e14a4;
     text-decoration: none;
